@@ -5557,14 +5557,15 @@ __metadata:
   linkType: hard
 
 "form-data@npm:^4.0.0":
-  version: 4.0.2
-  resolution: "form-data@npm:4.0.2"
+  version: 4.0.4
+  resolution: "form-data@npm:4.0.4"
   dependencies:
     asynckit: "npm:^0.4.0"
     combined-stream: "npm:^1.0.8"
     es-set-tostringtag: "npm:^2.1.0"
+    hasown: "npm:^2.0.2"
     mime-types: "npm:^2.1.12"
-  checksum: 10c0/e534b0cf025c831a0929bf4b9bbe1a9a6b03e273a8161f9947286b9b13bf8fb279c6944aae0070c4c311100c6d6dbb815cd955dc217728caf73fad8dc5b8ee9c
+  checksum: 10c0/373525a9a034b9d57073e55eab79e501a714ffac02e7a9b01be1c820780652b16e4101819785e1e18f8d98f0aee866cc654d660a435c378e16a72f2e7cac9695
   languageName: node
   linkType: hard
 
@@ -9228,7 +9229,7 @@ __metadata:
 
 "react-native-web@file:../react-native-web::locator=react-native-web-examples%40workspace%3Apackages%2Freact-native-web-examples":
   version: 0.20.2
-  resolution: "react-native-web@file:../react-native-web#../react-native-web::hash=581a60&locator=react-native-web-examples%40workspace%3Apackages%2Freact-native-web-examples"
+  resolution: "react-native-web@file:../react-native-web#../react-native-web::hash=5ffc7f&locator=react-native-web-examples%40workspace%3Apackages%2Freact-native-web-examples"
   dependencies:
     "@react-native/normalize-colors": "npm:^0.74.1"
     inline-style-prefixer: "npm:^7.0.1"
@@ -9239,7 +9240,7 @@ __metadata:
   peerDependencies:
     react: ^18.0.0 || ^19.0.0
     react-dom: ^18.0.0 || ^19.0.0
-  checksum: 10c0/9bca0260c77d3978e5999ab15b644db707d631788e12218aa2153746e9fbcadf3bb4930f89bfa7871e270052f332eeb75e72168b3fceca6948f39a66f189c976
+  checksum: 10c0/9b01485d355fbd126adf586dfeb0b542bb074d26044ca6ac41fe2dc0b9ec1a9e423ed20d1603b5acecf610d2cef8bca68bae0e598bc096aa6f680f2225b603cf
   languageName: node
   linkType: hard
 
